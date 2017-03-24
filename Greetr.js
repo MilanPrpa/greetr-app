@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> more_files
+final
