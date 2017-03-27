@@ -5,3 +5,5 @@ larry: function() {
 }
 
 }
+
+var country ='';
