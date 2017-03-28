@@ -1,9 +1,1 @@
-var x = {
-
-larry: function() {
-  console.log('Hello World');
-}
-
-}
-
-var country ='';
+var x = $('ul.lang li')
